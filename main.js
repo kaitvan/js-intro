@@ -40,22 +40,22 @@
 
 // *** ARRAYS *** 
 
-let array = []
-console.log(typeof array)
+// let array = []
+// console.log(typeof array)
 
 // *** OBJECTS ***
 
-let name = "Kaitlyn",
-    age = 30,
-    school = "NSS";
+// let name = "Kaitlyn",
+//     age = 30,
+//     school = "NSS";
 
-let object = {
-    name,
-    age,
-    school
-}
+// let object = {
+//     name,
+//     age,
+//     school
+// }
 
-console.log(object.name)
+// console.log(object.name)
 
 // *** FUNCTIONS ***
 
